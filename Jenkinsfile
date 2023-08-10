@@ -26,7 +26,7 @@ pipeline {
             environment {
                 // Define your Docker Hub username and repository name
                 DOCKER_HUB_USERNAME = 'shekharmehta25'
-                DOCKER_HUB_REPOSITORY = 'my_app_image'
+                DOCKER_HUB_REPOSITORY = 'my_web_app_image'
                 // Define your Docker Hub password
                 DOCKER_HUB_PASSWORD = 'humbercloud251'
             }
